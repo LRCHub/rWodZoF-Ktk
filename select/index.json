@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "オキドキ",
+  "base_artist": "AZKi",
+  "createdAt": "2026-03-13T12:17:55.234986Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オキドキ",
+      "artist": "SKE48",
+      "has_synced": true,
+      "path": "select/01_オキドキ_SKE48.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オキドキ",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/pl_01_オキドキ_AZKi.txt"
+    }
+  ]
+}
