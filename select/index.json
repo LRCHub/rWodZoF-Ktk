@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "オキドキ",
   "base_artist": "AZKi",
-  "createdAt": "2026-03-13T12:17:55.234986Z",
+  "createdAt": "2026-03-20T16:30:32.598640Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,15 @@
       "artist": "AZKi",
       "has_synced": false,
       "path": "select/pl_01_オキドキ_AZKi.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "オキドキ",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/localdb_01_オキドキ_AZKi.txt",
+      "repo_name": "rWodZoF-Ktk"
     }
   ]
 }
